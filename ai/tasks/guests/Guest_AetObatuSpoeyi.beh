@@ -1,0 +1,26 @@
+<BehaviorSets>
+   <BuyAetObatuSpoeyiGift>
+      <subjects>
+         <Guest_Adult/>
+      </subjects>
+      <behaviors>
+         <BFBehPlaySet behSet="DockIslandCart"/>
+         <BFBehScript context="behavior" file="scripts/AetObatuSpoeyiGiftAdult.lua" function="RaySpottGiftAdult"/>
+         <BFBehAttachObject attachEntity="AetObatuSpoeyi_Gift" detachAction="inventory" container="back_inventory"/>
+         <BFBehAnimate targetAnim="Stand_Turn180"/>
+      </behaviors>
+   </BuyAetObatuSpoeyiGift>
+   
+   <BuyAetObatuSpoeyiGift>
+      <subjects>
+         <Guest_Young/>
+      </subjects>
+      <behaviors>
+         <BFBehPlaySet behSet="DockIslandCart"/>
+         <BFBehScript context="behavior" file="scripts/AetObatuSpoeyiGiftYoung.lua" function="RaySpottGiftYoung" detachAction="inventory" />
+         <BFBehAttachObject attachEntity="AetObatuSpoeyi_Gift" detachAction="inventory" container="back_inventory"/>
+         <BFBehAnimate targetAnim="Stand_Turn180"/>
+      </behaviors>
+   </BuyAetObatuSpoeyiGift>   
+   
+</BehaviorSets>

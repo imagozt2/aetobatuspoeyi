@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <AetObatuSpoeyi>Aetobatus poeyi</AetObatuSpoeyi>
+      <AetObatuSpoeyi_stt>Aetobatus poeyi</AetObatuSpoeyi_stt>
+      <AetObatuSpoeyi_lower>El Aetobatus poeyi</AetObatuSpoeyi_lower>
+      <AetObatuSpoeyi_ltt>
+         <color r="255" g="248" b="178">
+            <b>Aetobatus poeyi</b>
+         </color>
+         <br/>
+         Haga click y seleccione el Aetobatus poeyi, una raya del Mioceno que media 10 metros de anchura.
+      </AetObatuSpoeyi_ltt>
+      <!--gift names-->
+      <AetObatuSpoeyi_Gift>Aetobatus poeyi Shirt</AetObatuSpoeyi_Gift>
+      <AetObatuSpoeyi_Gift_stt>Aetobatus poeyi shirt</AetObatuSpoeyi_Gift_stt>
+      <AetObatuSpoeyi_Gift_lower>the Aetobatus poeyi shirt</AetObatuSpoeyi_Gift_lower>
+      <AetObatuSpoeyi_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Aetobatus poeyi Shirt</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve un Aetobatus poeyi.
+      </AetObatuSpoeyi_Gift_ltt>
+</entityname>
+<zoopedia_aetobatuspoeyi>
+ <entry>Aetobatus poeyi</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AetObatuSpoeyi/AetObatuSpoeyi_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/Extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="170" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costero<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mares y oceanos del Mioceno<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Peces cartilaginosos <i>(Chondrichthyes)</i><br/>Order: Rayas <i>(Rajiformes)</i><br/>Family: Rayas aguila <i>(Myliobatidae)</i><br/>Genus: <i>Aetobatus</i><br/>Species: <i>A. poeyi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Aetobatus poeyi</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivio en el Mioceno.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Podia llegar a medir 10 metros de anchura.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>            
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">En sus tiempos era sustituto de la actual Manta birostris.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un Aetobatus poeyi necesitas 4 estrellas de nibel de fama en tu zoo.
+   </color>
+   <p/> Aetobatus poeyi, raya aguila prehistorica que vivio durante el Mioceno y segun se dice, alcanzaba los diez metros de envergadura. No es tan exagerado como parece; la manta actual alcanza los 8.5 metros. Como todas las rayas aguila, es muy posible que esta careciera de aguijon, pero tenia unas mandibulas muy poderosas. Hay quienes la llaman "un rival del Megalodon", pero su estilo de vida era muy diferente. Hubo mas de una especie gigante de Aetobatus en epocas prehistoricas, y al parecer tambien habia rayas gigantes del genero Raja. .
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color>
+<p/>Creado por
+<a href="zoopedia:zoopedia_Mediterranean:entry">
+                 <u>
+                    <color r="255" g="231" b="135">Imago</color>
+                 </u>
+              </a>
+  </cell>
+ </text>
+</zoopedia_aetobatuspoeyi>
+</ZT2Strings>

@@ -1,0 +1,32 @@
+<BFTypedBinder binderType="AetObatuSpoeyi_Young_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Rajiformes>
+                     <Myliobatidae>
+                        <AetObatuSpoeyi>
+                           <AetObatuSpoeyi_Young>
+                              <AetObatuSpoeyi_Young_M/>
+                           </AetObatuSpoeyi_Young>
+                        </AetObatuSpoeyi>
+                     </Myliobatidae>
+                  </Rajiformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="AetObatuSpoeyi_Young_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>
